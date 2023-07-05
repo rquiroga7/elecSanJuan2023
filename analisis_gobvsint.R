@@ -24,11 +24,7 @@ tabla_totales <- tabla_votos %>%
  GOBVSINT <- tabla_final %>%
   group_by(ETIQUETA_BLOQUE) %>%
  filter(ETIQUETA_BLOQUE %in% c("San Juan por Todos", "Unidos por San Juan")) %>%
- summarize(GOBvsINT=sum(GOBvsINT))
-
- # Convertir la tabla filtrada a formato HTML
- tabla_html <- tabla_final %>%
-  kable(format = "html")
+ summarize(GOB=sum(GOB), INT=sum(INT),GOBvsINT=sum(GOBvsINT))
 
  # Imprimir la tabla HTML
  tabla_print<-tabla_final
