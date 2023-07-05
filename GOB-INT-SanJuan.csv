@@ -1,0 +1,555 @@
+VOTACION;ETIQUETA_ZONA;PROVINCIA;ETIQUETA_CAND;ETIQUETA_AGRUP;ETIQUETA_BLOQUE;VOTOS;totalMesas;votosNulos;mesasescrutadas;votosEmitidos;votosValidos;votosBlancos;concurrencia;electores
+GOB;25 de Mayo;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;4274;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;2491;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;2157;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;127;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;64;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;60;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;48;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;31;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;30;45;58;10000;9442;9306;78;6406;14742
+GOB;25 de Mayo;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;24;45;58;10000;9442;9306;78;6406;14742
+INT;25 de Mayo;San Juan;;Vamos San Juan - Lista 07;San Juan por Todos;3024;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Cambia San Juan - Lista 13;Unidos por San Juan;1203;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;1085;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;838;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Vamos San Juan - Lista 05;San Juan por Todos;706;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Cambia San Juan - Lista 10;Unidos por San Juan;699;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Cambia San Juan - Lista 12;Unidos por San Juan;561;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;San Juan Vuelve;San Juan por Todos;559;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Vamos San Juan - Lista 06;San Juan por Todos;519;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Cambia San Juan - Lista 11;Unidos por San Juan;393;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Desarrollo Y Unidad - Lista 01;Desarrollo y Libertad;249;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;119;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Evolucion Liberal;Unidos por San Juan;74;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;Libertarios;Desarrollo y Libertad;61;45;52;9778;10362;10124;185;7189;14742
+INT;25 de Mayo;San Juan;;San Juan al Futuro;Unidos por San Juan;34;45;52;9778;10362;10124;185;7189;14742
+GOB;Albardón;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;7120;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;6420;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;2081;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;274;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;264;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;154;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;105;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;80;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;67;68;207;10000;16951;16625;119;7612;22275
+GOB;Albardón;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;60;68;207;10000;16951;16625;119;7612;22275
+INT;Albardón;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;3249;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;1646;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Cambia San Juan - Lista 18;Unidos por San Juan;1603;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Cambia San Juan - Lista 17;Unidos por San Juan;1553;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;1503;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;1199;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;San Juan Vuelve - Lista 08;San Juan por Todos;871;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;San Juan Vuelve - Lista 05;San Juan por Todos;833;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Juntos - Lista 21;Unidos por San Juan;744;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;425;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Desarrollo Y Unidad;Desarrollo y Libertad;385;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Vamos San Juan - Lista 13;San Juan por Todos;347;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;330;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;329;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;322;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Libertarios;Desarrollo y Libertad;281;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;263;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Evolucion Liberal;Unidos por San Juan;233;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;180;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Juntos - Lista 20;Unidos por San Juan;179;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;San Juan al Futuro;Unidos por San Juan;142;68;127;9853;17119;16708;274;7800;22275
+INT;Albardón;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;91;68;127;9853;17119;16708;274;7800;22275
+GOB;Angaco;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;2983;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;1676;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;1210;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;90;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;39;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;38;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;28;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;22;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;19;27;63;10000;6200;6116;21;7504;8262
+GOB;Angaco;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;11;27;63;10000;6200;6116;21;7504;8262
+INT;Angaco;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;1469;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;1385;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Vamos San Juan - Lista 07;San Juan por Todos;836;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;368;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Cambia San Juan - Lista 13;Unidos por San Juan;294;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;230;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;212;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;188;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;San Juan Vuelve - Lista 05;San Juan por Todos;162;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;117;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;San Juan Vuelve - Lista 03;San Juan por Todos;115;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Juntos;Unidos por San Juan;108;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;106;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;105;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;100;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;San Juan Vuelve - Lista 04;San Juan por Todos;72;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;Desarrollo Y Unidad - Lista 01;Desarrollo y Libertad;67;27;60;9630;6186;5951;174;7775;8262
+INT;Angaco;San Juan;;San Juan al Futuro;Unidos por San Juan;17;27;60;9630;6186;5951;174;7775;8262
+GOB;Calingasta;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;2360;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;1458;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;1452;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;68;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;61;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;40;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;39;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;29;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;23;26;108;10000;5720;5547;65;6690;8551
+GOB;Calingasta;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;17;26;108;10000;5720;5547;65;6690;8551
+INT;Calingasta;San Juan;;Vamos San Juan - Lista 05;San Juan por Todos;1637;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;Vamos San Juan - Lista 07;San Juan por Todos;1018;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;Vamos San Juan - Lista 06;San Juan por Todos;994;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;Cambia San Juan - Lista 10;Unidos por San Juan;274;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;257;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;Cambia San Juan - Lista 09;Unidos por San Juan;200;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;San Juan Vuelve - Lista 02;San Juan por Todos;109;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;San Juan Vuelve - Lista 03;San Juan por Todos;42;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;39;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;Juntos;Unidos por San Juan;39;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;San Juan Vuelve - Lista 04;San Juan por Todos;19;27;46;7407;4813;4639;128;7468;8701
+INT;Calingasta;San Juan;;San Juan al Futuro;Unidos por San Juan;11;27;46;7407;4813;4639;128;7468;8701
+GOB;Capital;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;39509;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;11882;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;9753;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;1288;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;1126;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;829;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;797;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;428;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;385;283;777;9823;67392;66266;349;7334;93592
+GOB;Capital;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;269;283;777;9823;67392;66266;349;7334;93592
+INT;Capital;San Juan;;Cambia San Juan - Lista 17;Unidos por San Juan;11263;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;10487;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;9206;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;San Juan Vuelve - Lista 09;San Juan por Todos;4594;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;3266;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Vamos San Juan - Lista 13;San Juan por Todos;3133;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;3121;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;1915;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;San Juan Vuelve - Lista 08;San Juan por Todos;1857;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Cambia San Juan - Lista 18;Unidos por San Juan;1739;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;1311;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;San Juan Vuelve - Lista 10;San Juan por Todos;1130;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;1103;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;1091;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Juntos - Lista 21;Unidos por San Juan;984;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Desarrollo Y Unidad - Lista 03;Desarrollo y Libertad;962;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;898;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Libertarios;Desarrollo y Libertad;886;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Desarrollo Y Unidad - Lista 04;Desarrollo y Libertad;838;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Juntos - Lista 20;Unidos por San Juan;793;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;Evolucion Liberal;Unidos por San Juan;753;283;756;9611;63629;61886;877;7073;93592
+INT;Capital;San Juan;;San Juan al Futuro;Unidos por San Juan;556;283;756;9611;63629;61886;877;7073;93592
+GOB;Caucete;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;10404;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;5839;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;3060;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;210;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;202;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;186;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;123;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;84;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;76;95;180;9790;20570;20257;133;6662;31561
+GOB;Caucete;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;73;95;180;9790;20570;20257;133;6662;31561
+INT;Caucete;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;6264;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;4200;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;3185;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;2091;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Vamos San Juan - Lista 13;San Juan por Todos;2008;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;1234;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;728;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;544;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;312;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Cambia San Juan - Lista 17;Unidos por San Juan;289;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;284;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;270;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;San Juan Vuelve - Lista 08;San Juan por Todos;251;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;186;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Evolucion Liberal;Unidos por San Juan;147;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Libertarios;Desarrollo y Libertad;109;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;San Juan Vuelve - Lista 09;San Juan por Todos;93;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Desarrollo Y Unidad - Lista 03;Desarrollo y Libertad;62;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;San Juan al Futuro;Unidos por San Juan;59;95;137;9684;22747;22374;228;7442;31561
+INT;Caucete;San Juan;;Juntos;Unidos por San Juan;58;95;137;9684;22747;22374;228;7442;31561
+GOB;Chimbas;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;24763;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;18288;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;5549;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;1291;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;652;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;414;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;372;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;314;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;198;211;760;9953;53083;52006;317;7327;72870
+GOB;Chimbas;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;165;211;760;9953;53083;52006;317;7327;72870
+INT;Chimbas;San Juan;;San Juan Vuelve - Lista 15;San Juan por Todos;15065;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;San Juan Vuelve - Lista 12;San Juan por Todos;3715;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 19;San Juan por Todos;2964;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Cambia San Juan - Lista 25;Unidos por San Juan;2407;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Cambia San Juan - Lista 27;Unidos por San Juan;2369;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;San Juan Vuelve - Lista 10;San Juan por Todos;1989;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Cambia San Juan - Lista 29;Unidos por San Juan;1925;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Cambia San Juan - Lista 28;Unidos por San Juan;1755;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;San Juan Vuelve - Lista 13;San Juan por Todos;1619;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 21;San Juan por Todos;1366;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;San Juan Vuelve - Lista 09;San Juan por Todos;1336;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;San Juan Vuelve - Lista 11;San Juan por Todos;1204;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;San Juan Vuelve - Lista 08;San Juan por Todos;1080;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Desarrollo Y Unidad - Lista 05;Desarrollo y Libertad;937;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;841;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 23;San Juan por Todos;771;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;766;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 16;San Juan por Todos;753;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Cambia San Juan - Lista 26;Unidos por San Juan;701;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Desarrollo Y Unidad - Lista 04;Desarrollo y Libertad;676;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 20;San Juan por Todos;616;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Libertarios;Desarrollo y Libertad;555;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Desarrollo Y Unidad - Lista 03;Desarrollo y Libertad;448;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Evolucion Liberal;Unidos por San Juan;415;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;San Juan Vuelve - Lista 14;San Juan por Todos;400;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;383;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Juntos - Lista 32;Unidos por San Juan;336;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 22;San Juan por Todos;305;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Juntos - Lista 31;Unidos por San Juan;272;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;San Juan al Futuro;Unidos por San Juan;258;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 18;San Juan por Todos;229;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 17;San Juan por Todos;229;211;668;9716;50335;48856;767;7110;72870
+INT;Chimbas;San Juan;;Vamos San Juan - Lista 24;San Juan por Todos;171;211;668;9716;50335;48856;767;7110;72870
+GOB;Iglesia;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;2574;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;1322;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;932;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;53;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;37;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;25;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;25;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;23;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;15;25;63;9600;5133;5019;51;6702;7979
+GOB;Iglesia;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;13;25;63;9600;5133;5019;51;6702;7979
+INT;Iglesia;San Juan;;Vamos San Juan - Lista 04;San Juan por Todos;2067;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Vamos San Juan - Lista 05;San Juan por Todos;1301;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Cambia San Juan - Lista 09;Unidos por San Juan;168;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Desarrollo Y Unidad;Desarrollo y Libertad;150;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Vamos San Juan - Lista 06;San Juan por Todos;142;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Cambia San Juan - Lista 07;Unidos por San Juan;138;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Cambia San Juan - Lista 11;Unidos por San Juan;86;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;San Juan Vuelve - Lista 03;San Juan por Todos;80;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Cambia San Juan - Lista 08;Unidos por San Juan;61;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Evolucion Liberal;Unidos por San Juan;60;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Cambia San Juan - Lista 10;Unidos por San Juan;51;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;San Juan Vuelve - Lista 02;San Juan por Todos;44;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;Juntos;Unidos por San Juan;28;25;28;7600;4590;4379;175;7569;7979
+INT;Iglesia;San Juan;;San Juan al Futuro;Unidos por San Juan;3;25;28;7600;4590;4379;175;7569;7979
+GOB;Jáchal;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;6181;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;4052;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;3766;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;154;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;139;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;136;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;130;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;116;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;60;65;190;10000;15149;14784;175;7608;19931
+GOB;Jáchal;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;50;65;190;10000;15149;14784;175;7608;19931
+INT;Jáchal;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;3489;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;2492;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;2075;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;1244;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Cambia San Juan - Lista 13;Unidos por San Juan;1173;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;991;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;946;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;746;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;374;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;San Juan Vuelve - Lista 05;San Juan por Todos;266;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Juntos;Unidos por San Juan;249;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;178;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;San Juan Vuelve - Lista 04;San Juan por Todos;129;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;119;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Evolucion Liberal;Unidos por San Juan;115;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Desarrollo Y Unidad - Lista 03;Desarrollo y Libertad;45;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;San Juan al Futuro;Unidos por San Juan;41;65;152;9692;15232;14699;367;7885;19931
+INT;Jáchal;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;27;65;152;9692;15232;14699;367;7885;19931
+GOB;Nueve de Julio;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;3447;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;1625;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;1232;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;123;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;43;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;42;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;39;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;26;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;25;28;54;10000;6709;6611;44;7171;9360
+GOB;Nueve de Julio;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;9;28;54;10000;6709;6611;44;7171;9360
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 19;Unidos por San Juan;1523;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;1374;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;827;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;523;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Evolucion Liberal;Unidos por San Juan;276;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;179;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;145;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 13;Unidos por San Juan;126;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Vamos San Juan - Lista 07;San Juan por Todos;121;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 17;Unidos por San Juan;118;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;San Juan Vuelve - Lista 03;San Juan por Todos;115;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 12;Unidos por San Juan;106;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;San Juan Vuelve - Lista 04;San Juan por Todos;90;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Desarrollo Y Unidad;Desarrollo y Libertad;86;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 18;Unidos por San Juan;78;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 11;Unidos por San Juan;74;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 20;Unidos por San Juan;71;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 22;Unidos por San Juan;66;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;65;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 21;Unidos por San Juan;56;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;52;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;San Juan Vuelve - Lista 05;San Juan por Todos;42;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;33;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;Juntos;Unidos por San Juan;31;29;18;8621;6355;6193;142;7752;9510
+INT;Nueve de Julio;San Juan;;San Juan al Futuro;Unidos por San Juan;15;29;18;8621;6355;6193;142;7752;9510
+GOB;Pocito;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;14438;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;9981;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;7253;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;808;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;633;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;489;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;269;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;266;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;210;143;513;9930;35326;34514;299;7267;48969
+GOB;Pocito;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;167;143;513;9930;35326;34514;299;7267;48969
+INT;Pocito;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;8653;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;4698;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;2076;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Vamos San Juan - Lista 14;San Juan por Todos;2074;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;San Juan Vuelve - Lista 08;San Juan por Todos;1583;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;1237;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;1092;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Cambia San Juan - Lista 17;Unidos por San Juan;1031;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;997;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;San Juan Vuelve - Lista 09;San Juan por Todos;946;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Desarrollo Y Unidad - Lista 03;Desarrollo y Libertad;930;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Vamos San Juan - Lista 13;San Juan por Todos;822;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;San Juan al Futuro;Unidos por San Juan;721;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;683;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;658;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Libertarios;Desarrollo y Libertad;535;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;527;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;330;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Juntos;Unidos por San Juan;307;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Evolucion Liberal - Lista 19;Unidos por San Juan;268;144;378;8750;31365;30340;626;7298;49119
+INT;Pocito;San Juan;;Evolucion Liberal - Lista 18;Unidos por San Juan;172;144;378;8750;31365;30340;626;7298;49119
+GOB;Rawson;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;32714;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;22909;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;9590;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;1549;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;1162;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;644;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;629;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;625;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;357;289;985;9896;71843;70446;412;7291;99650
+GOB;Rawson;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;267;289;985;9896;71843;70446;412;7291;99650
+INT;Rawson;San Juan;;Vamos San Juan - Lista 18;San Juan por Todos;9207;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;San Juan Vuelve - Lista 08;San Juan por Todos;7261;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Vamos San Juan - Lista 17;San Juan por Todos;5339;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;San Juan Vuelve - Lista 11;San Juan por Todos;4731;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Cambia San Juan - Lista 20;Unidos por San Juan;3903;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Cambia San Juan - Lista 21;Unidos por San Juan;3840;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Vamos San Juan - Lista 13;San Juan por Todos;3109;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Cambia San Juan - Lista 24;Unidos por San Juan;2467;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Vamos San Juan - Lista 15;San Juan por Todos;2150;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Cambia San Juan - Lista 22;Unidos por San Juan;2045;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Cambia San Juan - Lista 23;Unidos por San Juan;1883;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;1817;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Cambia San Juan - Lista 25;Unidos por San Juan;1759;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Vamos San Juan - Lista 16;San Juan por Todos;1665;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;1497;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Libertarios;Desarrollo y Libertad;1265;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Vamos San Juan - Lista 14;San Juan por Todos;1172;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;San Juan Vuelve - Lista 10;San Juan por Todos;988;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;San Juan Vuelve - Lista 12;San Juan por Todos;939;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Vamos San Juan - Lista 19;San Juan por Todos;868;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Evolucion Liberal - Lista 26;Unidos por San Juan;683;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;646;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Desarrollo Y Unidad - Lista 04;Desarrollo y Libertad;631;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;625;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Desarrollo Y Unidad - Lista 03;Desarrollo y Libertad;611;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Juntos;Unidos por San Juan;563;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;San Juan Vuelve - Lista 09;San Juan por Todos;371;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;Evolucion Liberal - Lista 27;Unidos por San Juan;361;289;775;9239;64396;62756;830;6995;99650
+INT;Rawson;San Juan;;San Juan al Futuro;Unidos por San Juan;360;289;775;9239;64396;62756;830;6995;99650
+GOB;Rivadavia;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;29512;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;13284;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;7304;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;991;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;810;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;602;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;521;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;475;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;245;218;694;9771;54971;53986;291;7520;74863
+GOB;Rivadavia;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;242;218;694;9771;54971;53986;291;7520;74863
+INT;Rivadavia;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;9396;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Cambia San Juan - Lista 17;Unidos por San Juan;5622;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;San Juan Vuelve - Lista 08;San Juan por Todos;4932;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;4738;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Cambia San Juan - Lista 13;Unidos por San Juan;3218;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;3070;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;2962;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;1776;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;1407;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;1211;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;1156;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;1088;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;960;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Desarrollo Y Unidad - Lista 03;Desarrollo y Libertad;861;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;690;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;540;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Juntos;Unidos por San Juan;476;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Libertarios;Desarrollo y Libertad;449;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;San Juan al Futuro;Unidos por San Juan;437;219;713;8493;46853;45375;689;7354;75013
+INT;Rivadavia;San Juan;;Evolucion Liberal;Unidos por San Juan;386;219;713;8493;46853;45375;689;7354;75013
+GOB;San Martin;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;3640;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;2625;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;1372;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;71;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;65;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;43;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;39;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;34;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;23;31;67;10000;8080;7930;83;7844;10303
+GOB;San Martin;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;18;31;67;10000;8080;7930;83;7844;10303
+INT;San Martin;San Juan;;Vamos San Juan - Lista 06;San Juan por Todos;2405;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Vamos San Juan - Lista 07;San Juan por Todos;1862;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;669;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Vamos San Juan - Lista 05;San Juan por Todos;624;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;448;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Cambia San Juan - Lista 12;Unidos por San Juan;402;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;San Juan Vuelve - Lista 03;San Juan por Todos;318;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Cambia San Juan - Lista 10;Unidos por San Juan;285;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Cambia San Juan - Lista 11;Unidos por San Juan;222;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;San Juan Vuelve - Lista 04;San Juan por Todos;161;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;San Juan Vuelve - Lista 02;San Juan por Todos;94;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Desarrollo Y Unidad;Desarrollo y Libertad;73;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;Juntos;Unidos por San Juan;20;32;43;9375;7867;7593;223;8028;10453
+INT;San Martin;San Juan;;San Juan al Futuro;Unidos por San Juan;10;32;43;9375;7867;7593;223;8028;10453
+GOB;Santa Lucía;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;21045;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;5919;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;4120;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;391;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;281;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;275;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;218;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;134;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;119;130;448;9846;33275;32600;227;7554;44764
+GOB;Santa Lucía;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;98;130;448;9846;33275;32600;227;7554;44764
+INT;Santa Lucía;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;13988;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Vamos San Juan - Lista 13;San Juan por Todos;5125;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;2185;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;1598;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Vamos San Juan - Lista 14;San Juan por Todos;633;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;625;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;San Juan Vuelve - Lista 08;San Juan por Todos;530;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;493;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Desarrollo Y Unidad - Lista 03;Desarrollo y Libertad;435;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Juntos;Unidos por San Juan;428;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;413;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;346;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;338;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Evolucion Liberal;Unidos por San Juan;316;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Libertarios;Desarrollo y Libertad;278;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Unidad;Frente de Izquierda y de los Trabajadores;253;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;236;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;194;130;403;8923;29406;28568;405;7362;44764
+INT;Santa Lucía;San Juan;;San Juan al Futuro;Unidos por San Juan;154;130;403;8923;29406;28568;405;7362;44764
+GOB;Sarmiento;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;9028;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;2091;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;2014;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;183;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;88;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;56;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;47;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;39;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;37;60;152;10000;13871;13611;108;7161;19371
+GOB;Sarmiento;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;28;60;152;10000;13871;13611;108;7161;19371
+INT;Sarmiento;San Juan;;Cambia San Juan - Lista 15;Unidos por San Juan;4860;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Vamos San Juan - Lista 10;San Juan por Todos;2592;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Vamos San Juan - Lista 12;San Juan por Todos;1016;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;San Juan Vuelve - Lista 05;San Juan por Todos;933;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Cambia San Juan - Lista 17;Unidos por San Juan;865;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;795;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Cambia San Juan - Lista 18;Unidos por San Juan;546;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;407;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Vamos San Juan - Lista 11;San Juan por Todos;363;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;317;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Desarrollo Y Unidad - Lista 02;Desarrollo y Libertad;311;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;San Juan Vuelve - Lista 07;San Juan por Todos;230;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;San Juan Vuelve - Lista 06;San Juan por Todos;203;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Cambia San Juan - Lista 16;Unidos por San Juan;197;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Desarrollo Y Unidad - Lista 01;Desarrollo y Libertad;166;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;San Juan al Futuro;Unidos por San Juan;118;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Evolucion Liberal;Unidos por San Juan;115;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;102;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Vamos San Juan - Lista 13;San Juan por Todos;87;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Libertarios;Desarrollo y Libertad;81;61;118;9672;14672;14334;211;7771;19521
+INT;Sarmiento;San Juan;;Juntos;Unidos por San Juan;29;61;118;9672;14672;14334;211;7771;19521
+GOB;Ullum;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;1514;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;1044;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;1023;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;60;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;21;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;16;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;15;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;14;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;12;14;10;10000;3759;3729;20;7964;4720
+GOB;Ullum;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;10;14;10;10000;3759;3729;20;7964;4720
+INT;Ullum;San Juan;;Vamos San Juan - Lista 04;San Juan por Todos;1618;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;Vamos San Juan - Lista 06;San Juan por Todos;1188;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;Vamos San Juan - Lista 05;San Juan por Todos;562;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;Desarrollo Y Unidad;Desarrollo y Libertad;101;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;Cambia San Juan - Lista 08;Unidos por San Juan;74;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;San Juan Vuelve - Lista 02;San Juan por Todos;71;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;Vamos San Juan - Lista 07;San Juan por Todos;49;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;Evolucion Liberal;Unidos por San Juan;48;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;Cambia San Juan - Lista 09;Unidos por San Juan;43;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;San Juan Vuelve - Lista 03;San Juan por Todos;30;14;4;9286;3826;3786;36;8729;4720
+INT;Ullum;San Juan;;San Juan al Futuro;Unidos por San Juan;2;14;4;9286;3826;3786;36;8729;4720
+GOB;Valle Fértil;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;2453;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;1414;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;905;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;28;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;20;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;13;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;12;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;11;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;11;23;53;10000;4949;4872;24;7271;6811
+GOB;Valle Fértil;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;5;23;53;10000;4949;4872;24;7271;6811
+INT;Valle Fértil;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;1320;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Vamos San Juan - Lista 05;San Juan por Todos;1098;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Vamos San Juan - Lista 09;San Juan por Todos;869;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Vamos San Juan - Lista 07;San Juan por Todos;575;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Cambia San Juan - Lista 12;Unidos por San Juan;284;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Cambia San Juan - Lista 10;Unidos por San Juan;262;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Vamos San Juan - Lista 04;San Juan por Todos;215;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;San Juan Vuelve - Lista 02;San Juan por Todos;167;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Cambia San Juan - Lista 13;Unidos por San Juan;161;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Cambia San Juan - Lista 11;Unidos por San Juan;156;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Cambia San Juan - Lista 14;Unidos por San Juan;154;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;Vamos San Juan - Lista 06;San Juan por Todos;99;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;El Rugido De La Libertad;Desarrollo y Libertad;77;23;33;10000;5627;5488;105;8262;6811
+INT;Valle Fértil;San Juan;;San Juan Vuelve - Lista 03;San Juan por Todos;51;23;33;10000;5627;5488;105;8262;6811
+GOB;Zonda;San Juan;Marcelo ORREGO;Cambia San Juan;Unidos por San Juan;1172;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;José Luis GIOJA;San Juan Vuelve ;San Juan por Todos;1155;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;José Rubén UÑAC;Vamos San Juan;San Juan por Todos;1133;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;Marcelo ARANCIBIA;Juntos;Unidos por San Juan;27;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;Paola MIERS;Rugido de Libertad;Desarrollo y Libertad;21;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;Agustín RAMIREZ;Desarrollo y Unidad;Desarrollo y Libertad;20;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;Sergio VALLEJOS;Evolución Liberal;Unidos por San Juan;11;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;Eduardo CÁCERES;San Juan al Futuro;Unidos por San Juan;9;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;Cristian JURADO;Frente de Izquierda y de los Trabajadores;Frente de Izquierda y de los Trabajadores;9;14;28;10000;3617;3565;24;7699;4702
+GOB;Zonda;San Juan;Yolanda AGÜERO;Libertarios;Desarrollo y Libertad;8;14;28;10000;3617;3565;24;7699;4702
+INT;Zonda;San Juan;;Vamos San Juan - Lista 04;San Juan por Todos;1057;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Vamos San Juan - Lista 08;San Juan por Todos;433;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Cambia San Juan - Lista 12;Unidos por San Juan;367;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Vamos San Juan - Lista 05;San Juan por Todos;297;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;San Juan Vuelve - Lista 03;San Juan por Todos;260;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Cambia San Juan - Lista 13;Unidos por San Juan;135;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Cambia San Juan - Lista 09;Unidos por San Juan;83;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Vamos San Juan - Lista 07;San Juan por Todos;73;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Cambia San Juan - Lista 10;Unidos por San Juan;53;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Vamos San Juan - Lista 06;San Juan por Todos;34;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Cambia San Juan - Lista 11;Unidos por San Juan;27;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Evolucion Liberal;Unidos por San Juan;26;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;San Juan Vuelve - Lista 02;San Juan por Todos;25;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;Juntos;Unidos por San Juan;21;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;San Juan Vuelve - Lista 01;San Juan por Todos;14;14;6;7143;2968;2905;54;8837;4702
+INT;Zonda;San Juan;;San Juan al Futuro;Unidos por San Juan;0;14;6;7143;2968;2905;54;8837;4702
